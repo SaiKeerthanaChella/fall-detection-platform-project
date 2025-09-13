@@ -7,3 +7,10 @@ models/registry/*
 .DS_Store
 .vscode/
 .idea/
+
+.env
+
+.env
+
+*.docx
+~$*.docx
